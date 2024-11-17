@@ -11,7 +11,7 @@ Nous avons effectué les étapes 1,2 et 3 du TD3 (dont Prisma)  et 2 spécificat
 
 Vous trouverez dans le dossier captures et dans le dossier API Europark, nos tests  pour les routes avec les captures d'écran 
 
-Nous avons crée un fichier .env.example pour que vous puissiez le modifier en .env et avoir accès à la database
+Nous avons crée un fichier .env.example pour que vous puissiez le modifier en .env et avoir accès à la database. (bunx prisma generate + bunx prisma db push) 
 
 
 
