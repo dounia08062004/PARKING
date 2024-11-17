@@ -9,10 +9,9 @@ Nous avons effectué les étapes 1,2 et 3 du TD3 (dont Prisma)  et 2 spécificat
 -US101 : visible dans le dossier services sous le nom de FacturationParking et le test de la fonction "parkingPrice" dans le dossier tests 
 -US201 pour le tri ascendant/ descendant des parkings en fonction du nb de places 
 
-
-
 Vous trouverez dans le dossier captures et dans le dossier API Europark, nos tests  pour les routes avec les captures d'écran 
 
+Nous avons crée un fichier exemple .env pour que vous puissiez récupérer l'url de la database
 
 
 
